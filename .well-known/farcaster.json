@@ -1,0 +1,19 @@
+{
+    "accountAssociation": {
+      "header": "eyJmaWQiOjM0ODU2OSwidHlwZSI6ImN1c3RvZHkiLCJrZXkiOiIweGEzMkU1NzczN2NmM2JGM2M5YTRBRTQ2OTZjNkYzZjdmQzQ0NmIzOTYifQ",
+      "payload": "eyJkb21haW4iOiJhbGlzaGFyYWZpaWlpLmdpdGh1Yi5pbyJ9",
+      "signature": "MHhkOGUyMTY5Yzg5NTQ5Y2RmMTJlYzA2NWRlZWUyNTJlZjdjZDQyOGRmYzM0ZTc1MmU5NzY5ODY4NGUyMTM5MzBmMjhhZWM3MDQ5OTZkMWFhYTkyYjg1NTAzNzVlMGU1NDFhM2FkNGU2NDk4YzNiYjIwNTE3M2NiMTVjY2M5MTFhMTFj"
+    },
+    "frame": {
+      "version": "1",
+      "name": "Example Frame",
+      "iconUrl": "https://alisharafiiii.github.io/icon.png",
+      "homeUrl": "https://alisharafiiii.github.io",
+      "imageUrl": "https://alisharafiiii.github.io/image.png",
+      "buttonTitle": "Check this out",
+      "splashImageUrl": "https://alisharafiiii.github.io/splash.png",
+      "splashBackgroundColor": "#eeccff",
+      "webhookUrl": "https://alisharafiiii.github.io/api/webhook"
+    }
+  }
+  
